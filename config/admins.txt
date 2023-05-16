@@ -7,7 +7,7 @@
 SinfulBliss = Host
 Ahri The Nine-Tailed Fox = Game Admin
 Mooshimi = Game Admin
-Expletives = Game Master
+InhumanPwnage = Game Master
 kingofkosmos = Game Master
 MrStonedOne = Lazy Master
 microscopics = Game Master
